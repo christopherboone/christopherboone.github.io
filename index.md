@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "welcome"
+layout: home
 ---
 
-# Hello
+Hi there.
+
